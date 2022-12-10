@@ -1,6 +1,3 @@
-# Ignore the config.js file.
-config.js
-
 # Compiled class file
 *.class
 
