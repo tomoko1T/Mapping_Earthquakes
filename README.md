@@ -3,8 +3,6 @@
 ## Overview 
 This project is to present visually the differences between the magnitudes of earthquakes all over the world for the last seven days.  The data of geographical coordinates and the magnitudes were retrieved from USGS website for GeoJSON earthquake data.  The JavaScript and the D3.js library were used to pull the information from the GeoJSON data.  The Leaflet library is utilized to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
-The deployed webpage is ()
-
 ## Result and Summary 
 The following data were added in addition to the earthquekes data. 
 
